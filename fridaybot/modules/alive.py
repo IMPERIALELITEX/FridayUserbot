@@ -54,7 +54,7 @@ pm_caption += "➥ **Heroku Database** : `AWS - Working Properly`\n\n"
 pm_caption += "➥ **License** : [GNU General Public License v3.0](github.com/StarkGang/FridayUserbot/blob/master/LICENSE)\n"
 pm_caption += "➥ **Copyright** : By [StarkGang@Github](GitHub.com/StarkGang)\n"
 pm_caption += "➥ **Check Stats By Doing** `.stat`. \n\n"
-pm_caption += "[🇮🇳 Deploy FridayUserbot 🇮🇳](https://telegra.ph/FRIDAY-06-15)"
+pm_caption += "[🇮🇳 Deploy FridayUserbot 🇮🇳](https://telegra.ph/FRIDAY-12-27)"
 
 
 @friday.on(friday_on_cmd(pattern=r"alive"))
